@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me : piyushbokaria215@gmail.com
 - 😄 Pronouns: Him
-- 
 
 <!---
 Piyush-Bokaria/Piyush-Bokaria is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
