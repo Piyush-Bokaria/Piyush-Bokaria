@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Piyush-Bokaria
-- 👀 I’m interested in Web Development, Cybersecurity and Astrophysics
+- 👀 I’m interested in Software Development, Machine Learning, Cybersecurity and Space Science
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me : piyushbokaria215@gmail.com
